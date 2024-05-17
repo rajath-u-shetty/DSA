@@ -4,25 +4,26 @@ using namespace std;
 
 
 int main(){
-    int n,x;
+    int n,temp;
     cin >> n;
-    x=n;
+    temp=n;
     int count=0;
     
-    while(x>0){
-      x=x/10;
+    while(temp>0){
       count++;
+      temp=temp/10;
     }
     
-    x=n;
+    temp=n;
     int lastnum,sum=0;
-    while(x>0){
-        lastnum = x%10;
+
+    while(temp>0){
+        lastnum = temp%10;
         sum=sum + pow(lastnum, count);
-        x=x/10;
+        temp=temp/10;
     }
     
-    if(x==sum)cout << "True";
+    if(n==sum)cout << "True";
     else cout <<  "False";
 }
 
