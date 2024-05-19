@@ -50,7 +50,6 @@ int main(){
     int len = 0;
 
     while (right < n){
-        sum += a[right];
 
         while(sum > k && left <= right){
             sum -= a[left];
@@ -62,6 +61,7 @@ int main(){
         }
 
         right++;
+        sum += a[right];
     }
 
     cout << len;
