@@ -1,7 +1,7 @@
 ---
 id: 2-Sorting0,1,2
-aliases: 
-tags: 
+aliases: []
+tags: []
 area: Algorithms
 project: DSA-Notes
 ---
@@ -20,7 +20,7 @@ TC - O(nlogn)
 
 count the number of 0,1, and 2's and manually update them in the array
 
-```
+```cpp
 int cnt0 = 0;
 int cnt1 = 0;
 int cnt2 = 0;
