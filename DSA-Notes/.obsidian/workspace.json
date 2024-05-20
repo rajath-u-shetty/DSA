@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to cpp.md",
+                "file": "0 - Templates/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7ac7212c7376de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Medium/1-2SumProblem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a0512120bd332a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Medium/1-2SumProblem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b63d6448fb7e9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Medium/3-MajorityElement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9388c144bd37204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to cpp.md",
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to cpp.md",
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to cpp.md"
+                "file": "Arrays/Medium/4-kadene's Algorithm.md"
               }
             }
           }
@@ -147,9 +196,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5432e30ccc026053",
+  "active": "567cc77b8238ddc0",
   "lastOpenFiles": [
+    "Arrays/Medium/3-MajorityElement.md",
+    "Arrays/Medium/4-kadene's Algorithm.md",
+    "Arrays/Medium/1-2SumProblem.md",
+    "Arrays/Medium/2-Sorting0,1,2.md",
     "0 - Templates/Questions.md",
+    "Arrays/Medium/Untitled/Untitled.md",
+    "Arrays/Medium/Untitled",
+    "Arrays/Medium",
+    "Arrays/untitled folder",
+    "Arrays",
+    "untitled folder",
     "Intro to cpp.md",
     "Hello World.md",
     "0 - Templates",
