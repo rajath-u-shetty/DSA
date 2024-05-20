@@ -67,8 +67,12 @@
             "id": "6860306e508a4785",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arrays/Medium/4-kadene's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arrays/Medium/4-kadene's Algorithm.md"
+              }
             }
           }
         ]
@@ -198,12 +206,12 @@
   },
   "active": "6860306e508a4785",
   "lastOpenFiles": [
+    "Arrays/Medium/2-Sorting0,1,2.md",
     "Arrays/Medium/3-MajorityElement.md",
     "0 - Index/Array Medium.md",
     "Arrays/Medium/4-kadene's Algorithm.md",
     "0 - Index",
     "Arrays/Medium/1-2SumProblem.md",
-    "Arrays/Medium/2-Sorting0,1,2.md",
     "0 - Templates/Questions.md",
     "Arrays/Medium/Untitled/Untitled.md",
     "Arrays/Medium/Untitled",

@@ -15,7 +15,7 @@ sorting an array which consists of 0's 1's and 2's
 ## Brute Force Approach
 
 using sorting algorithm like merge sort
-TC - O(nlogn)
+TC - O(nlogn).
 ## Better Approach
 
 count the number of 0,1, and 2's and manually update them in the array
