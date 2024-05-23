@@ -30,11 +30,8 @@ using inbuilt STL library. next_permutation(a.begin(), a.end())
 		[2 5 1 4 3 0 0]// we can get greater combination only if we move the last 6 digits.
 		find the breakpoint where the right element is greater than left one.
 		the condidtion is arr[i] < arr[i+1] //which is not true till number 1 when coming from last.
-		```
-		
-
-```cpp
-in arr =  [1,2,3,4,5]
+	
+int arr =  [1,2,3,4,5]
 //the breakpoint is at the last position
 [1,2,3,5,4] //optimal answer
 ```
