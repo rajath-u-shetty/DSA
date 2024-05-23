@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Medium/8-Leadder In Arrays.md",
+                "file": "Arrays/Medium/9-LongestConsecutiveSequence.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Medium/8-Leadder In Arrays.md",
+                "file": "Arrays/Medium/9-LongestConsecutiveSequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Medium/8-Leadder In Arrays.md",
+                "file": "Arrays/Medium/9-LongestConsecutiveSequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Medium/8-Leadder In Arrays.md"
+                "file": "Arrays/Medium/9-LongestConsecutiveSequence.md"
               }
             }
           }
@@ -218,8 +218,10 @@
   },
   "active": "dc67b088365a2133",
   "lastOpenFiles": [
-    "Arrays/Medium/7-Next Permutation.md",
     "Arrays/Medium/8-Leadder In Arrays.md",
+    "Arrays/Medium/9-LongestConsecutiveSequence.md",
+    "Arrays/Medium/9-LongestConsecutiveSequence.cpp",
+    "Arrays/Medium/7-Next Permutation.md",
     "0 - Templates/Questions.md",
     "Arrays/Medium/5-BuyNSellStock.md",
     "Arrays/Medium/6-Rearrang By Sign.md",
