@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Medium/12-SpiralMatrix.md",
+                "file": "2.BinarySearch/3-SearchInsertPosition.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Medium/12-SpiralMatrix.md",
+                "file": "2.BinarySearch/3-SearchInsertPosition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Medium/12-SpiralMatrix.md",
+                "file": "2.BinarySearch/3-SearchInsertPosition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Medium/12-SpiralMatrix.md"
+                "file": "2.BinarySearch/3-SearchInsertPosition.md"
               }
             }
           }
@@ -198,8 +198,15 @@
   },
   "active": "b9388c144bd37204",
   "lastOpenFiles": [
-    "Arrays/Medium/11-setMatrixBy0.md",
+    "2.BinarySearch/1-LowerBound.md",
+    "2.BinarySearch/3-SearchInsertPosition.md",
+    "2.BinarySearch/2-upperBound.md",
+    "2.BinarySearch/3-SearchInsertPosition.cpp",
+    "2.BinarySearch/LowerBound.md",
+    "2.BinarySearch",
+    "Arrays/Medium/1-2SumProblem.md",
     "Arrays/Medium/12-SpiralMatrix.md",
+    "Arrays/Medium/11-setMatrixBy0.md",
     "Arrays/Medium/1716920519-1-2-3.md",
     "0 - Index/Array Medium.md",
     "0 - Templates/Questions.md",
@@ -216,7 +223,6 @@
     "Arrays/Medium/2-Sorting0,1,2.md",
     "Arrays/Medium/3-MajorityElement.md",
     "0 - Index",
-    "Arrays/Medium/1-2SumProblem.md",
     "Arrays/Medium/Untitled/Untitled.md",
     "Arrays/Medium/Untitled",
     "Arrays/Medium",
@@ -225,7 +231,6 @@
     "untitled folder",
     "Intro to cpp.md",
     "Hello World.md",
-    "0 - Templates",
     "Welcome.md"
   ]
 }
