@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "68e72d32dc5c7340",
+        "id": "bf9f1d863f932888",
         "type": "tabs",
         "children": [
           {
-            "id": "5432e30ccc026053",
+            "id": "92261ad1d28e5c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Templates/Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7ac7212c7376de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Medium/1-2SumProblem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a0512120bd332a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Medium/1-2SumProblem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b63d6448fb7e9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Medium/3-MajorityElement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9388c144bd37204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.BinarySearch/3-SearchInsertPosition.md",
+                "file": "Tech/Kafka Apache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.BinarySearch/3-SearchInsertPosition.md",
+                "file": "Tech/Kafka Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.BinarySearch/3-SearchInsertPosition.md",
+                "file": "Tech/Kafka Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.BinarySearch/3-SearchInsertPosition.md"
+                "file": "Tech/Kafka Apache.md"
               }
             }
           }
@@ -196,8 +147,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9388c144bd37204",
+  "active": "92261ad1d28e5c8f",
   "lastOpenFiles": [
+    "Screenshot 2024-09-15 at 10.50.57 PM.png",
+    "Screenshot 2024-09-15 at 9.27.54 PM.png",
+    "Screenshot 2024-09-15 at 9.19.49 PM.png",
+    "Screenshot 2024-09-15 at 8.47.59 PM.png",
+    "Screenshot 2024-09-15 at 8.31.08 PM.png",
+    "Screenshot 2024-09-15 at 8.30.38 PM.png",
+    "Screenshot 2024-09-15 at 8.18.34 PM.png",
+    "Screenshot 2024-09-15 at 8.15.41 PM.png",
+    "Tech/Kafka Apache.md",
+    "Tech",
+    "Untitled.canvas",
+    "0 - Templates/Questions.md",
+    "Arrays/Medium/2-Sorting0,1,2.md",
     "2.BinarySearch/1-LowerBound.md",
     "2.BinarySearch/3-SearchInsertPosition.md",
     "2.BinarySearch/2-upperBound.md",
@@ -209,7 +173,6 @@
     "Arrays/Medium/11-setMatrixBy0.md",
     "Arrays/Medium/1716920519-1-2-3.md",
     "0 - Index/Array Medium.md",
-    "0 - Templates/Questions.md",
     "Arrays/Medium/10-Set matrix 0.md",
     "Arrays/Medium/9-LongestConsecutiveSequence.md",
     "Arrays/Medium/10-Set Matrix 0.md",
@@ -220,7 +183,6 @@
     "Arrays/Medium/6-Rearrang By Sign.md",
     "Arrays/Medium/6-Rearrange Element By Sign",
     "Arrays/Medium/4-kadene's Algorithm.md",
-    "Arrays/Medium/2-Sorting0,1,2.md",
     "Arrays/Medium/3-MajorityElement.md",
     "0 - Index",
     "Arrays/Medium/Untitled/Untitled.md",
@@ -228,7 +190,6 @@
     "Arrays/Medium",
     "Arrays/untitled folder",
     "Arrays",
-    "untitled folder",
     "Intro to cpp.md",
     "Hello World.md",
     "Welcome.md"
