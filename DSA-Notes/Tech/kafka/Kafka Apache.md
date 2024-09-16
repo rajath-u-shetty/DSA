@@ -124,3 +124,4 @@
     - In real-world scenarios, each consumer could represent a different **database** or **service** that processes the partitioned data.
     - For example, Consumer 1 (Database 1) handles the North and South data, while Consumer 2 (Database 2) processes East and West data.
     - If there are more consumers (or databases) than available partitions, the extra consumers will sit idle, waiting for partitions to be assigned.
+

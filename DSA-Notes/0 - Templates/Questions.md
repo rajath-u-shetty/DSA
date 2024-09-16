@@ -8,6 +8,6 @@ project: DSA-Notes
 #### On {{date}} at {{time}}
 
 # The Problem Statement
-## Brute Force Approach
+## Brute Force Approac
 ## Better Approach
 ## Optimal Approach
