@@ -10,8 +10,13 @@ int searchInARotatedSortedArrayII(vector<int> &arr, int target) {
   int mid;
   while (low <= high) {
     mid = (low + high) / 2;
-    if (arr[mid] == target){
-      return mid;
+    if (arr[mid] == target) {return mid;}
+    //the only diff b/w previous i.r no repeated code is the below condidtion   
+    //if the elements in high low and mid is same the it shrinks the search space
+    if(arr[mid] == arr[low] == arr[high]){
+      low++;
+      high--;
+      continue;
     }
     if (arr[mid] <= arr[high]) {
       if (arr[mid] <= target && target <= arr[high]) {
@@ -31,8 +36,8 @@ int searchInARotatedSortedArrayII(vector<int> &arr, int target) {
 }
 
 int main() {
-  vector<int> arr = {7, 8, 9, 1, 2, 3, 3, 3, 4, 5, 6};
-  int k = 3;
+  vector<int> arr = {7, 8, 1, 2, 3, 3, 3, 4, 5, 6};
+  int k = 7;
   int ans = searchInARotatedSortedArrayII(arr, k);
   cout << ans;
   if (!ans)
@@ -41,3 +46,4 @@ int main() {
     cout << "Target is present in the array.\n";
   return 0;
 }
+
