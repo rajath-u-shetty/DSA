@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b990078157949df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/kubernetes/kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/WebSockets/socket.io.md",
+                "file": "Tech/kubernetes/kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/WebSockets/socket.io.md",
+                "file": "Tech/kubernetes/kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/WebSockets/socket.io.md"
+                "file": "Tech/kubernetes/kubernetes.md"
               }
             }
           }
@@ -147,9 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7ca162c320d338a",
+  "active": "0b990078157949df",
   "lastOpenFiles": [
     "Tech/kafka/Kafka Apache.md",
+    "Tech/kubernetes/kubernetes.md",
+    "Screenshot 2024-11-08 at 12.47.53 PM.png",
     "Tech/WebSockets/socket.io.md",
     "Tech/WebSockets/Screenshot 2024-09-16 at 2.43.25 AM.png",
     "Tech/WebSockets/Screenshot 2024-09-16 at 2.33.17 AM.png",
@@ -169,7 +184,6 @@
     "Tech/kafka/Screenshot 2024-09-15 at 8.31.08 PM.png",
     "Tech/kafka/Screenshot 2024-09-15 at 8.30.38 PM.png",
     "Tech/kafka/Screenshot 2024-09-15 at 8.18.34 PM.png",
-    "Tech/kafka/Screenshot 2024-09-15 at 8.15.41 PM.png",
     "Tech",
     "Untitled.canvas",
     "Arrays/Medium/2-Sorting0,1,2.md",
@@ -192,7 +206,6 @@
     "Arrays/Medium/4-kadene's Algorithm.md",
     "Arrays/Medium/3-MajorityElement.md",
     "0 - Index",
-    "Arrays/Medium/Untitled/Untitled.md",
     "Arrays/Medium/Untitled",
     "Arrays/Medium"
   ]
