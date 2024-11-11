@@ -1,0 +1,50 @@
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+int minDecide(vector<int> arr, int mid, int k) {
+  int sum = 0;
+  int count = 0;
+  for (int i = 0; i < arr.size(); i++) {
+    if (sum + arr[i] < mid) {
+      sum += arr[i];
+    } else {
+      count++;
+      sum = 0;
+      sum += arr[i];
+    }
+  }
+  if (sum > 0 && sum < mid) {
+    count++;
+  }
+  return count;
+}
+
+int main() {
+  vector<int> arr = {10, 20, 30, 40};
+  int n = arr.size();
+  int k = 2;
+  int sum, maxi;
+  for (int i = 0; i < n; i++) {
+    sum += arr[i];
+    maxi = 0;
+    if (arr[i] > maxi) {
+      maxi = arr[i];
+    }
+  }
+  int low = maxi;
+  int high = sum;
+  int mid, val;
+  while (low <= high) {
+    mid = (low + high) / 2;
+    val = minDecide(arr, mid, k);
+    if (val > k) {
+      low = mid + 1;
+    } else {
+      high = mid - 1;
+    }
+  }
+  cout << mid;
+  cout << val;
+}
