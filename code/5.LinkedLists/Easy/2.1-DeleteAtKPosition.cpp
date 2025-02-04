@@ -1,6 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <iterator>
+#include <string>
 #include <vector>
 
 using namespace std;
@@ -34,48 +35,65 @@ Node *convertToLL(vector<int> arr) {
   return head;
 }
 
-Node *InsertHead(Node *head, int val) {
-  // Node *temp = new Node(val);
-  // temp->next = head;
-  // return temp;
-
-  return new Node(val, head);
-}
-
-Node* InsertAtLast(Node* head, int val){
-  Node* temp = head;
-  while(temp->next != NULL){
-    temp = temp->next;
-  }
-  temp->next = new Node(val);
+Node *removeHead(Node *head) {
+  if (head == NULL)
+    return head;
+  Node *temp = head;
+  head = head->next;
+  delete temp;
   return head;
 }
 
-Node* InsertAtK(Node* head, int val, int pos){
-  if(head == NULL){
-    return new Node(val);
+Node *removeTail(Node *head) {
+  if (head == NULL)
+    return head;
+
+  Node *temp = head;
+  while (temp->next->next != NULL) {
+    temp = temp->next;
   }
-  
-  Node* temp = head;
+  delete temp->next;
+
+  temp->next = nullptr;
+  return head;
+}
+
+Node *removeKInLL(Node *head, int k) {
+  Node *temp = head;
+
+  if (head == NULL) {
+    return head;
+  }
+
+  temp = head;
+  if (k == 1) {
+    head = head->next;
+    delete temp;
+    return head;
+  }
+
+  temp = head->next;
   int cnt = 1;
-  Node* newNode = new Node(val);
-  while(temp != NULL){
+  Node* prevNode = NULL;
+  while (temp != NULL) {
     cnt++;
-    if(cnt == pos){
-      newNode->next = temp->next;
-      temp->next = newNode;
-      return head;
+    if (cnt == k) {
+      prevNode->next = prevNode->next->next;
+      delete temp;
+      break;
     }
-    temp=temp->next;
+    prevNode = temp;
+    temp = temp->next;
   }
-  
+
   return head;
 }
 
 int main() {
   vector<int> arr = {1, 2, 3, 4, 5, 6};
   Node *head = convertToLL(arr);
-  head = InsertHead(head, 2);
+  head = removeKInLL(head, 3);
+  cout << head->data << endl;
   Node *temp = head;
   while (temp) {
     cout << temp->data;

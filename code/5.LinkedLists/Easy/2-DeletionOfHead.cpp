@@ -45,7 +45,7 @@ Node* RemoveHead(Node* head){
 
 Node* RemoveTail(Node* head){
   if(head == NULL || head->next == NULL){
-    return head;
+    return NULL;
   }
 
   Node* temp = head;
