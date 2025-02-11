@@ -1,11 +1,37 @@
-#include<bits/stdc++.h>
-
+#include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-  return 0;
-}
+int main() {
+    int n;
+    cin >> n;
+    int c[n], t[n];
 
+    for (int i = 0; i < n; i++) {
+        cin >> c[i];
+    }
+    
+    for (int i = 0; i < n; i++) {
+        cin >> t[i];
+    }
+
+    int at = 100000;
+    int tr = 100000;
+    int attr = 100000;
+
+    for (int i = 0; i < n; i++) {
+        if (t[i] == 1) {
+            tr = min(tr, c[i]);
+        } else if (t[i] == 2) {
+            at = min(at, c[i]);
+        } else if (t[i] == 3){
+            attr = min(attr, c[i]);
+        }
+    }
+
+    int minTotalCost = min(tr + at, attr);
+    cout<< minTotalCost << "\n";
+    return 0;
+}
 
 
 
