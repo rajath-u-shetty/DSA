@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/git & github/5 - Rebase.md",
+                "file": "Tech/RSC/Next/SSR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Rebase"
+              "title": "SSR"
             }
           }
         ]
@@ -165,14 +165,14 @@
   },
   "active": "5a603c04575e37c9",
   "lastOpenFiles": [
-    "Tech/git & github/Fork ~ Reflog ~ merge & rebase conflicts.md",
+    "Tech/RSC/React/React.md",
+    "Tech/RSC/Next/SSR.md",
     "Tech/git & github/5 - Rebase.md",
+    "Tech/git & github/Fork ~ Reflog ~ merge & rebase conflicts.md",
     "Tech/git & github/5 - Rebase",
     "Tech/git & github/git rebase.md",
     "Tech/git & github/git merge.md",
     "Tech/git & github/git.md",
-    "Tech/RSC/Next/SSR.md",
-    "Tech/RSC/React/React.md",
     "Tech/RSC/Next/Screenshot 2024-11-25 at 11.40.30 PM.png",
     "Tech/RSC/Next/Screenshot 2024-11-25 at 11.32.15 PM.png",
     "Tech/RSC/Next",
