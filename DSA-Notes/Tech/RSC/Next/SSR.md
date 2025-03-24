@@ -1,11 +1,11 @@
 
 ![[Screenshot 2024-11-25 at 11.32.15 PM.png]]
 
-* This is how th basic set-up flow looks like
+* This is how the basic set-up flow looks like
 * the server first runs some db query and key the render shell prepared before any requested
 * once a request to the server is made it sends these already generated html/css to the client.
 * this significantly reduces the load on the client.
-* once the bundle is downloaded the hydration process will start and react will parse thropugh all of the code base and starts assigning the event listerners to each components.
+* once the bundle is downloaded the hydration process will start and react will parse through all of the code base and starts assigning the event listerners to each components.
 * later on from here additional information required by the client are requsted through db call and then the page re-renders
 
 * the FP(first Print) or partial data is already present before downloading the js bundle

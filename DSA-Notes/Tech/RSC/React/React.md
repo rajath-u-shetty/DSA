@@ -39,7 +39,7 @@ React provides a fantastic **developer experience** due to its modular approach,
 The challenges of a React-based client-side rendering (CSR) architecture are depicted by the vertical lines in the provided image. Here's a breakdown:
 
 1. **Initial Blank Screen (JS Download Time)**
-    
+
     - Before rendering the shell, the browser needs to download and parse the entire JS bundle.
     - The larger the JS bundle, the longer this delay becomes, leading to a **blank screen** for the user during the initial loading phase.
 2. **Shell Rendering Without Functionality**
