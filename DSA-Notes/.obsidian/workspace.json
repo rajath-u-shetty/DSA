@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/js/1. JavaScript Notes.md",
+                "file": "Tech/js/3.  Advance Js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. JavaScript Notes"
+              "title": "3.  Advance Js"
             }
           }
         ]
@@ -166,10 +166,12 @@
   },
   "active": "c141d78adbfcd018",
   "lastOpenFiles": [
+    "Tech/js/4.  Assignments.md",
+    "Tech/js/3.  Advance Js.md",
+    "Tech/js/1. JavaScript Notes.md",
     "Tech/js/2. Code execution in Js.md",
     "Screenshot 2025-03-23 at 11.20.04 PM.png",
     "Tech/js/Screenshot 2025-03-23 at 11.01.07 PM.png",
-    "Tech/js/1. JavaScript Notes.md",
     "Tech/js/Screenshot 2025-03-21 at 1.08.47 PM.png",
     "Tech/js/Screenshot 2025-03-21 at 1.07.39 PM.png",
     "Screenshot 2025-03-10 at 11.30.53 PM.png",
@@ -210,7 +212,6 @@
     "Untitled.canvas",
     "2.BinarySearch/1-LowerBound.md",
     "2.BinarySearch/3-SearchInsertPosition.md",
-    "2.BinarySearch/2-upperBound.md",
-    "2.BinarySearch/LowerBound.md"
+    "2.BinarySearch/2-upperBound.md"
   ]
 }
