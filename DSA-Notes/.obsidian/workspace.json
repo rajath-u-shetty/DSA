@@ -166,9 +166,11 @@
   },
   "active": "c141d78adbfcd018",
   "lastOpenFiles": [
-    "Tech/js/4.  Assignments.md",
+    "Tech/js/1. JavaScript (Prototype-based language).md",
     "Tech/js/3.  Advance Js.md",
-    "Tech/js/1. JavaScript Notes.md",
+    "Tech/js/4.  Assignments.md",
+    "Tech/js/Screenshot 2025-03-30 at 5.59.57 PM.png",
+    "Tech/js/Screenshot 2025-03-30 at 12.00.47 AM.png",
     "Tech/js/2. Code execution in Js.md",
     "Screenshot 2025-03-23 at 11.20.04 PM.png",
     "Tech/js/Screenshot 2025-03-23 at 11.01.07 PM.png",
@@ -193,9 +195,7 @@
     "Tech/RSC/Next/Screenshot 2024-11-25 at 11.40.30 PM.png",
     "Tech/RSC/Next/Screenshot 2024-11-25 at 11.32.15 PM.png",
     "Tech/RSC/Next",
-    "Tech/RSC/React/Screenshot 2024-11-25 at 10.22.42 PM.png",
     "Tech/RSC/React",
-    "Screenshot 2024-11-25 at 10.13.31 PM.png",
     "Tech/RSC",
     "Tech/git & github",
     "Tech/WebSockets/socket.io.md",
@@ -211,7 +211,6 @@
     "Tech",
     "Untitled.canvas",
     "2.BinarySearch/1-LowerBound.md",
-    "2.BinarySearch/3-SearchInsertPosition.md",
-    "2.BinarySearch/2-upperBound.md"
+    "2.BinarySearch/3-SearchInsertPosition.md"
   ]
 }
